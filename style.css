@@ -31,11 +31,6 @@ img{
     --red:#db2525;
 }
 
-aside{
-    background: var(--red);
-    color: var(--white);
-    text-align:center
-}
 
 /*TOP NAV KISMI*/
 .topnav{
